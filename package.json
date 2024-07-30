@@ -1,0 +1,30 @@
+{
+  "name": "researcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@4.3.1",
+  "scripts": {
+    "start": "yarn ts-node ./src/index.ts"
+  },
+  "devDependencies": {
+    "@types/d3-dsv": "^2",
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.2.20",
+    "d3-dsv": "2",
+    "dotenv": "^16.4.5",
+    "duck-duck-scrape": "^2.2.5",
+    "jssoup": "^0.0.15",
+    "langchain": "^0.2.11",
+    "mammoth": "^1.8.0",
+    "node-html-parser": "^6.1.13",
+    "officeparser": "^4.1.1",
+    "pdf-parse": "^1.1.1",
+    "playwright": "^1.45.3",
+    "winston": "^3.13.1"
+  }
+}

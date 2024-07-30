@@ -1,0 +1,12 @@
+node_modules/
+
+.env
+
+logs/
+
+xgpt-workspace/
+
+build/
+
+x-gpt.json
+ai_settings.json

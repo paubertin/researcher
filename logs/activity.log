@@ -1,0 +1,713 @@
+2024-07-29T12:57:01.964Z [INFO] TITLE 
+2024-07-29T12:58:55.911Z [INFO] AI Researcher Starting the research for Paris Olympics...
+2024-07-29T12:59:14.432Z [INFO] AI Researcher Starting the research for Paris Olympics...
+2024-07-29T13:42:13.124Z [INFO] AI Researcher Starting the research for Paris Olympics...
+2024-07-29T13:43:23.612Z [INFO] AI Researcher Starting the research for Paris Olympics...
+2024-07-29T13:44:05.493Z [INFO] AI Researcher Starting the research for Paris Olympics...
+2024-07-29T13:44:06.424Z [INFO] 
+ 
+2024-07-29T13:44:06.921Z [INFO] **
+ 
+2024-07-29T13:44:07.062Z [INFO] {
+ 
+2024-07-29T13:44:08.592Z [INFO] ",
+ 
+2024-07-29T13:44:15.394Z [INFO] ."
+ 
+2024-07-29T13:44:58.909Z [INFO] AI Researcher Starting the research for Paris Olympics...
+2024-07-29T13:44:59.811Z [INFO] **Task:** Paris Olympics
+ 
+2024-07-29T13:45:00.311Z [INFO] **Response:**
+ 
+2024-07-29T13:45:00.459Z [INFO] {
+ 
+2024-07-29T13:45:01.985Z [INFO]   "server": "🏅 Sports Analyst Agent",
+ 
+2024-07-29T13:45:08.710Z [INFO]   "agentRolePrompt": "You are a seasoned AI sports analyst assistant. Your primary goal is to compose comprehensive, astute, impartial, and methodically arranged reports on various sports-related topics, including event analysis, athlete profiles, team strategies, and historical context."
+ 
+2024-07-29T13:46:50.069Z [INFO] AI Researcher Starting the research for Paris Olympics...
+2024-07-29T13:46:52.789Z [INFO] **Server:** 🏅 Sports Analyst Agent
+ 
+2024-07-29T13:46:59.332Z [INFO] **Agent Role Prompt:** "You are a seasoned sports analyst AI assistant. Your primary goal is to compose comprehensive, astute, impartial, and methodically arranged reports on various sports-related topics, including event analysis, athlete profiles, team strategies, and industry trends."
+
+ 
+2024-07-29T13:46:59.981Z [INFO] **Research Task:**
+
+ 
+2024-07-29T13:47:01.996Z [INFO] Provide an in-depth report on the potential impact of hosting the Olympics in Paris.
+
+ 
+2024-07-29T13:47:02.525Z [INFO] **Instructions:**
+
+ 
+2024-07-29T13:47:04.452Z [INFO] 1. Analyze the economic benefits and costs associated with hosting the Olympics.
+ 
+2024-07-29T13:47:06.512Z [INFO] 2. Research the potential infrastructure developments that would be required to host the event.
+ 
+2024-07-29T13:47:08.186Z [INFO] 3. Evaluate the environmental impact of hosting the Olympics in Paris.
+ 
+2024-07-29T13:47:10.665Z [INFO] 4. Discuss the potential social and cultural implications of hosting the Olympics in a city like Paris.
+
+ 
+2024-07-29T13:47:11.306Z [INFO] **Expected Response:**
+
+ 
+2024-07-29T13:47:11.433Z [INFO] {
+ 
+2024-07-29T13:47:12.943Z [INFO]   "server": "🏅 Sports Analyst Agent",
+ 
+2024-07-29T13:47:13.995Z [INFO]   "agentRolePrompt": "...",
+ 
+2024-07-29T13:47:14.668Z [INFO]   "report": {
+ 
+2024-07-29T13:47:15.468Z [INFO]     "economicBenefits": [
+ 
+2024-07-29T13:47:18.241Z [INFO]       "Hosting the Olympics could bring significant economic benefits to Paris, including increased tourism revenue and job creation.",
+ 
+2024-07-29T13:47:19.908Z [INFO]       "The event could also stimulate local businesses and infrastructure development."
+ 
+2024-07-29T13:47:20.166Z [INFO]     ],
+ 
+2024-07-29T13:47:21.122Z [INFO]     "economicCosts": [
+ 
+2024-07-29T13:47:23.760Z [INFO]       "The costs associated with hosting the Olympics are estimated to be around $10 billion.",
+ 
+2024-07-29T13:47:25.903Z [INFO]       "This includes expenses for venue construction, staffing, and security."
+ 
+2024-07-29T13:47:26.180Z [INFO]     ],
+ 
+2024-07-29T13:47:27.197Z [INFO]     "infrastructureDevelopments": [
+ 
+2024-07-29T13:47:30.344Z [INFO]       "Paris would need to invest in new transportation infrastructure, including a high-speed rail link and improved public transport systems.",
+ 
+2024-07-29T13:47:32.492Z [INFO]       "The city would also require significant upgrades to its accommodation and hospitality facilities."
+ 
+2024-07-29T13:47:32.773Z [INFO]     ],
+ 
+2024-07-29T13:47:33.747Z [INFO]     "environmentalImpact": [
+ 
+2024-07-29T13:47:36.291Z [INFO]       "Hosting the Olympics could have a significant environmental impact, particularly if not managed sustainably.",
+ 
+2024-07-29T13:47:38.594Z [INFO]       "This includes concerns around energy consumption, waste management, and carbon emissions."
+ 
+2024-07-29T13:47:38.916Z [INFO]     ],
+ 
+2024-07-29T13:47:40.201Z [INFO]     "socialCulturalImplications": [
+ 
+2024-07-29T13:47:42.548Z [INFO]       "The Olympics could bring people together and promote cultural exchange between nations.",
+ 
+2024-07-29T13:47:45.610Z [INFO]       "However, there are also potential risks of social unrest and cultural disruption in the host city."
+ 
+2024-07-29T13:47:45.901Z [INFO]     ]
+ 
+2024-07-29T13:47:46.214Z [INFO]   }
+ 
+2024-07-29T13:47:56.658Z [INFO] AI Researcher Starting the research for Paris Olympics...
+2024-07-29T13:47:58.724Z [INFO] **Task:** Paris Olympics
+ 
+2024-07-29T13:47:59.241Z [INFO] **Response:**
+ 
+2024-07-29T13:47:59.378Z [INFO] {
+ 
+2024-07-29T13:48:00.889Z [INFO]   "server": "🏅 Sports Analyst Agent",
+ 
+2024-07-29T13:48:07.750Z [INFO]   "agentRolePrompt": "You are a seasoned AI sports analyst assistant. Your primary goal is to compose comprehensive, astute, impartial, and methodically arranged reports on various sports-related topics, including event analysis, athlete profiles, team strategies, and historical context."
+ 
+2024-07-29T13:49:01.345Z [INFO] AI Researcher Starting the research for Paris Olympics...
+2024-07-29T13:49:02.941Z [INFO] {
+ 
+2024-07-29T13:49:04.391Z [INFO]   "server": "🏅 Sports Analyst Agent",
+ 
+2024-07-29T13:49:10.815Z [INFO]   "agentRolePrompt": "You are a seasoned AI sports analyst assistant. Your primary goal is to compose comprehensive, astute, impartial, and methodically arranged reports on various sports-related topics, including event analysis, athlete profiles, and competition trends."
+ 
+2024-07-29T13:49:54.801Z [INFO] AI Researcher Starting the research for développement web...
+2024-07-29T13:50:34.699Z [INFO] AI Researcher Starting the research for développement web...
+2024-07-29T13:51:08.887Z [INFO] AI Researcher Starting the research for game engine development...
+2024-07-29T13:52:06.869Z [INFO] AI Researcher Starting the research for What happened in the latest burning man floods?...
+2024-07-29T13:56:27.473Z [INFO] AI Researcher Starting the research for What happened in the latest burning man floods?...
+2024-07-29T13:56:37.731Z [INFO] AI Researcher Agent generated: 🌪️ / Emergency Response Agent
+2024-07-29T14:14:07.605Z [INFO] AI Researcher Starting the research for What happened in the latest burning man floods?...
+2024-07-29T14:14:20.851Z [INFO] AI Researcher Agent generated: 🌪️ / Emergency Response Agent
+2024-07-29T14:15:06.786Z [INFO] AI Researcher Starting the research for What happened in the latest burning man floods?...
+2024-07-29T14:15:16.231Z [INFO] AI Researcher Agent generated: 🌪️ / Emergency Response Agent
+2024-07-29T14:18:23.226Z [INFO] AI Researcher Starting the research for Tableau classement JO Paris 2024...
+2024-07-29T14:18:34.056Z [INFO] AI Researcher Agent generated: 🏅 / Sports Analyst Agent
+2024-07-29T14:18:39.484Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris 2024 Olympic Games medal table,Olympic Games Paris 2024 standings,Tableau des médailles JO Paris 2024,Tableau classement JO Paris 2024
+2024-07-29T15:13:50.401Z [INFO] AI Researcher Starting the research for Tableau classement JO Paris 2024...
+2024-07-29T15:14:03.142Z [INFO] AI Researcher Agent generated: 🏅 / Sports Analyst Agent
+2024-07-29T15:14:08.427Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris 2024 Olympic Games medal table,Olympic Games Paris 2024 standings,Tableau des médailles JO Paris 2024,Tableau classement JO Paris 2024
+2024-07-29T15:14:09.088Z [INFO] AI Researcher 🔍 Running research for: Paris 2024 Olympic Games medal table...
+2024-07-29T15:14:09.786Z [INFO] AI Researcher 🔍 Running research for: Olympic Games Paris 2024 standings...
+2024-07-29T15:14:10.455Z [INFO] AI Researcher 🔍 Running research for: Tableau des médailles JO Paris 2024...
+2024-07-29T15:14:11.068Z [INFO] AI Researcher 🔍 Running research for: Tableau classement JO Paris 2024...
+2024-07-29T15:17:02.921Z [INFO] AI Researcher Starting the research for Tableau classement JO Paris 2024...
+2024-07-29T15:17:13.666Z [INFO] AI Researcher Agent generated: 🏅 / Sports Analyst Agent
+2024-07-29T15:17:18.930Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris 2024 Olympic Games medal table,Olympic Games Paris 2024 standings,Tableau des médailles JO Paris 2024,Tableau classement JO Paris 2024
+2024-07-29T15:17:19.539Z [INFO] AI Researcher 🔍 Running research for: Paris 2024 Olympic Games medal table...
+2024-07-29T15:18:54.686Z [INFO] AI Researcher Starting the research for Tableau classement JO Paris 2024...
+2024-07-29T15:19:05.582Z [INFO] AI Researcher Agent generated: 🏅 / Sports Analyst Agent
+2024-07-29T15:19:11.128Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris 2024 Olympic Games medal table,Olympic Games Paris 2024 standings,Tableau des médailles JO Paris 2024,Tableau classement JO Paris 2024
+2024-07-29T15:19:11.864Z [INFO] AI Researcher 🔍 Running research for: Paris 2024 Olympic Games medal table...
+2024-07-29T15:20:40.868Z [INFO] AI Researcher Starting the research for Tableau classement JO Paris 2024...
+2024-07-29T15:20:51.544Z [INFO] AI Researcher Agent generated: 🏅 / Sports Analyst Agent
+2024-07-29T15:20:56.777Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris 2024 Olympic Games medal table,Olympic Games Paris 2024 standings,Tableau des médailles JO Paris 2024,Tableau classement JO Paris 2024
+2024-07-29T15:20:57.463Z [INFO] AI Researcher 🔍 Running research for: Paris 2024 Olympic Games medal table...
+2024-07-29T15:24:08.262Z [INFO] AI Researcher Starting the research for Tableau classement JO Paris 2024...
+2024-07-29T15:24:18.794Z [INFO] AI Researcher Agent generated: 🏅 / Sports Analyst Agent
+2024-07-29T15:24:24.162Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris 2024 Olympic Games medal table,Olympic Games Paris 2024 standings,Tableau des médailles JO Paris 2024,Tableau classement JO Paris 2024
+2024-07-29T15:24:24.804Z [INFO] AI Researcher 🔍 Running research for: Paris 2024 Olympic Games medal table...
+2024-07-29T15:24:26.507Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/medals
+2024-07-29T15:24:27.206Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.com/sport/olympics/paris-2024/medals
+2024-07-29T15:24:27.908Z [INFO] AI Researcher ✅ Added source url to research: https://en.wikipedia.org/wiki/2024_Summer_Olympics_medal_table
+2024-07-29T15:24:28.568Z [INFO] AI Researcher ✅ Added source url to research: https://www.euronews.com/2024/07/29/paris-olympics-2024-live-medal-table
+2024-07-29T15:24:29.117Z [INFO] AI Researcher ✅ Added source url to research: https://www.olympics.com.au/games/paris-2024/medal-table/
+2024-07-29T15:24:29.708Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-29T15:24:30.459Z [INFO] AI Researcher 📚 Getting relevant content based on query: Paris 2024 Olympic Games medal table...
+2024-07-29T15:24:32.727Z [INFO] AI Researcher 🤷 No content found for Paris 2024 Olympic Games medal table...
+2024-07-29T15:24:33.365Z [INFO] AI Researcher 🔍 Running research for: Olympic Games Paris 2024 standings...
+2024-07-29T15:25:15.226Z [INFO] AI Researcher Starting the research for Tableau classement JO Paris 2024...
+2024-07-29T15:25:28.228Z [INFO] AI Researcher Agent generated: 🏅 / Sports Analyst Agent
+2024-07-29T15:25:33.485Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris 2024 Olympic Games medal table,Olympic Games Paris 2024 standings,Tableau des médailles JO Paris 2024,Tableau classement JO Paris 2024
+2024-07-29T15:25:34.140Z [INFO] AI Researcher 🔍 Running research for: Paris 2024 Olympic Games medal table...
+2024-07-29T15:26:43.391Z [INFO] AI Researcher Starting the research for Tempas à venir cette semaine sur Lyon...
+2024-07-29T15:26:58.168Z [INFO] AI Researcher Starting the research for Météo à venir cette semaine sur Lyon...
+2024-07-29T15:27:07.532Z [INFO] AI Researcher Agent generated: 🌞 / Weather Forecast Agent
+2024-07-29T15:27:12.474Z [INFO] AI Researcher I will conduct my research based on the following queries: Lyon weather forecast this week,weather conditions in Lyon France next 7 days,temperature and precipitation predictions for Lyon metropolitan area,Météo à venir cette semaine sur Lyon
+2024-07-29T15:27:13.173Z [INFO] AI Researcher 🔍 Running research for: Lyon weather forecast this week...
+2024-07-29T15:27:15.095Z [INFO] AI Researcher ✅ Added source url to research: https://www.timeanddate.com/weather/france/lyon/ext
+2024-07-29T15:27:15.739Z [INFO] AI Researcher ✅ Added source url to research: https://www.accuweather.com/en/fr/lyon/171210/weather-forecast/171210
+2024-07-29T15:27:16.418Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.com/weather/2996944
+2024-07-29T15:27:17.057Z [INFO] AI Researcher ✅ Added source url to research: https://www.timeanddate.com/weather/@2996944/ext
+2024-07-29T15:27:17.641Z [INFO] AI Researcher ✅ Added source url to research: https://www.timeanddate.com/weather/france/lyon
+2024-07-29T15:27:18.168Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-29T15:27:20.726Z [INFO] AI Researcher 📚 Getting relevant content based on query: Lyon weather forecast this week...
+2024-07-29T15:28:57.782Z [INFO] AI Researcher Starting the research for Météo à venir cette semaine sur Lyon...
+2024-07-29T15:29:10.420Z [INFO] AI Researcher Agent generated: 🌞 / Weather Forecast Agent
+2024-07-29T15:29:15.135Z [INFO] AI Researcher I will conduct my research based on the following queries: Lyon weather forecast this week,Meteo Lyon prevision 7 jours,Weather Lyon France next 5 days,Météo à venir cette semaine sur Lyon
+2024-07-29T15:29:15.818Z [INFO] AI Researcher 🔍 Running research for: Lyon weather forecast this week...
+2024-07-29T15:29:17.482Z [INFO] AI Researcher ✅ Added source url to research: https://www.timeanddate.com/weather/france/lyon/ext
+2024-07-29T15:29:18.127Z [INFO] AI Researcher ✅ Added source url to research: https://www.accuweather.com/en/fr/lyon/171210/weather-forecast/171210
+2024-07-29T15:29:18.764Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.com/weather/2996944
+2024-07-29T15:29:19.428Z [INFO] AI Researcher ✅ Added source url to research: https://www.timeanddate.com/weather/france/lyon
+2024-07-29T15:29:20.106Z [INFO] AI Researcher ✅ Added source url to research: https://www.meteoblue.com/en/weather/week/lyon_france_2996944
+2024-07-29T15:29:20.707Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-29T15:29:22.850Z [INFO] AI Researcher 📚 Getting relevant content based on query: Lyon weather forecast this week...
+2024-07-29T15:30:38.456Z [INFO] AI Researcher Starting the research for Météo à venir cette semaine sur Lyon...
+2024-07-29T15:30:51.807Z [INFO] AI Researcher Agent generated: 🌞 / Weather Forecast Agent
+2024-07-29T15:30:56.547Z [INFO] AI Researcher I will conduct my research based on the following queries: Lyon weather forecast this week,Meteo Lyon prevision 7 jours,Weather Lyon France next 5 days,Météo à venir cette semaine sur Lyon
+2024-07-29T15:30:57.162Z [INFO] AI Researcher 🔍 Running research for: Lyon weather forecast this week...
+2024-07-29T15:30:59.223Z [INFO] AI Researcher ✅ Added source url to research: https://www.timeanddate.com/weather/france/lyon/ext
+2024-07-29T15:30:59.845Z [INFO] AI Researcher ✅ Added source url to research: https://www.accuweather.com/en/fr/lyon/171210/weather-forecast/171210
+2024-07-29T15:31:00.508Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.com/weather/2996944
+2024-07-29T15:31:01.093Z [INFO] AI Researcher ✅ Added source url to research: https://www.timeanddate.com/weather/@2996944/ext
+2024-07-29T15:31:01.769Z [INFO] AI Researcher ✅ Added source url to research: https://www.timeanddate.com/weather/france/lyon
+2024-07-29T15:31:02.408Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-29T15:31:04.481Z [INFO] AI Researcher 📚 Getting relevant content based on query: Lyon weather forecast this week...
+2024-07-29T15:32:53.505Z [INFO] AI Researcher Starting the research for médailles aux JO paris...
+2024-07-29T15:33:07.162Z [INFO] AI Researcher Agent generated: 🏅 / Sports Statistician Agent
+2024-07-29T15:33:12.222Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris Olympics medal count by country,Medal table Paris 2024 Olympics,Olympic Games Paris 2024 medal standings,médailles aux JO paris
+2024-07-29T15:33:12.829Z [INFO] AI Researcher 🔍 Running research for: Paris Olympics medal count by country...
+2024-07-29T15:33:14.595Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/medals
+2024-07-29T15:33:15.239Z [INFO] AI Researcher ✅ Added source url to research: https://www.nytimes.com/interactive/2024/world/olympics-results-medals.html
+2024-07-29T15:33:15.989Z [INFO] AI Researcher ✅ Added source url to research: https://www.washingtonpost.com/sports/olympics/interactive/2024/paris-olympics-medal-count-tracker/
+2024-07-29T15:33:16.607Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.com/sport/olympics/paris-2024/medals
+2024-07-29T15:33:17.242Z [INFO] AI Researcher ✅ Added source url to research: https://apnews.com/olympics-medal-tracker
+2024-07-29T15:33:17.882Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-29T15:33:46.197Z [INFO] AI Researcher 📚 Getting relevant content based on query: Paris Olympics medal count by country...
+2024-07-30T11:07:00.547Z [INFO] AI Researcher Starting the research for médailles aux JO paris...
+2024-07-30T11:08:23.265Z [INFO] AI Researcher Agent generated: 🏅 / Sports Historian Agent
+2024-07-30T11:08:42.648Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris Olympics medal count,Medal table Paris 2024 Olympics,Olympic Games Paris 2024 results by country,médailles aux JO paris
+2024-07-30T11:08:43.275Z [INFO] AI Researcher 🔍 Running research for: Paris Olympics medal count...
+2024-07-30T11:08:45.022Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/medals
+2024-07-30T11:08:45.651Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/
+2024-07-30T11:08:46.277Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbsnews.com/news/olympic-medal-count-2024-paris/
+2024-07-30T11:08:46.941Z [INFO] AI Researcher ✅ Added source url to research: https://www.nytimes.com/interactive/2024/07/29/upshot/olympics-medal-table-paris.html
+2024-07-30T11:08:47.576Z [INFO] AI Researcher ✅ Added source url to research: https://www.washingtonpost.com/sports/olympics/interactive/2024/paris-olympics-medal-count-tracker/
+2024-07-30T11:08:48.206Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T11:08:52.055Z [INFO] AI Researcher 📚 Getting relevant content based on query: Paris Olympics medal count...
+2024-07-30T11:35:34.338Z [INFO] AI Researcher Starting the research for médailles aux JO paris...
+2024-07-30T11:36:41.360Z [INFO] AI Researcher Agent generated: 🏅 / Sports Historian Agent
+2024-07-30T11:36:59.188Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris Olympics medal count,Medal table Paris 2024 Olympics,Olympic Games Paris 2024 results by country,médailles aux JO paris
+2024-07-30T11:36:59.795Z [INFO] AI Researcher 🔍 Running research for: Paris Olympics medal count...
+2024-07-30T11:37:01.440Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/medals
+2024-07-30T11:37:02.017Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/
+2024-07-30T11:37:02.759Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbsnews.com/news/olympic-medal-count-2024-paris/
+2024-07-30T11:37:03.421Z [INFO] AI Researcher ✅ Added source url to research: https://www.nytimes.com/interactive/2024/07/29/upshot/olympics-medal-table-paris.html
+2024-07-30T11:37:04.078Z [INFO] AI Researcher ✅ Added source url to research: https://www.nbcnews.com/sports/olympics/2024-paris-olympics-medal-count-team-usa-rcna164106
+2024-07-30T11:37:04.646Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T11:37:06.193Z [INFO] AI Researcher 📚 Getting relevant content based on query: Paris Olympics medal count...
+2024-07-30T12:10:22.624Z [INFO] AI Researcher Starting the research for médailles aux JO paris...
+2024-07-30T12:11:26.229Z [INFO] AI Researcher Agent generated: 🏅 / Sports Historian Agent
+2024-07-30T12:11:44.531Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris Olympics medal count,Medal table Paris 2024 Olympics,Olympic Games Paris 2024 results by country,médailles aux JO paris
+2024-07-30T12:11:45.268Z [INFO] AI Researcher 🔍 Running research for: Paris Olympics medal count...
+2024-07-30T12:11:47.121Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/medals
+2024-07-30T12:11:47.736Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/
+2024-07-30T12:11:48.327Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbsnews.com/news/olympic-medal-count-2024-paris/
+2024-07-30T12:11:48.939Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.com/sport/olympics/paris-2024/medals
+2024-07-30T12:11:49.580Z [INFO] AI Researcher ✅ Added source url to research: https://www.nytimes.com/interactive/2024/07/29/upshot/olympics-medal-table-paris.html
+2024-07-30T12:11:50.145Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:11:51.192Z [INFO] AI Researcher 📚 Getting relevant content based on query: Paris Olympics medal count...
+2024-07-30T12:13:46.524Z [INFO] AI Researcher Starting the research for médailles aux JO paris...
+2024-07-30T12:14:57.291Z [INFO] AI Researcher Agent generated: 🏅 / Sports Historian Agent
+2024-07-30T12:15:17.795Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris Olympics medal count,Medal table Paris 2024 Olympics,Olympic Games Paris 2024 results by country,médailles aux JO paris
+2024-07-30T12:15:18.369Z [INFO] AI Researcher 🔍 Running research for: Paris Olympics medal count...
+2024-07-30T12:15:20.080Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/medals
+2024-07-30T12:15:20.709Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/
+2024-07-30T12:15:21.353Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbsnews.com/news/olympic-medal-count-2024-paris/
+2024-07-30T12:15:21.997Z [INFO] AI Researcher ✅ Added source url to research: https://www.nytimes.com/interactive/2024/07/29/upshot/olympics-medal-table-paris.html
+2024-07-30T12:15:22.674Z [INFO] AI Researcher ✅ Added source url to research: https://www.nbcnews.com/sports/olympics/2024-paris-olympics-medal-count-team-usa-rcna164106
+2024-07-30T12:15:23.359Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:15:24.792Z [INFO] AI Researcher 📚 Getting relevant content based on query: Paris Olympics medal count...
+2024-07-30T12:21:35.693Z [INFO] AI Researcher Starting the research for médailles aux JO paris...
+2024-07-30T12:22:43.476Z [INFO] AI Researcher Agent generated: 🏅 / Sports Historian Agent
+2024-07-30T12:23:01.321Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris Olympics medal count,Medal table Paris 2024 Olympics,Olympic Games Paris 2024 results by country,médailles aux JO paris
+2024-07-30T12:23:01.917Z [INFO] AI Researcher 🔍 Running research for: Paris Olympics medal count...
+2024-07-30T12:23:03.757Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/medals
+2024-07-30T12:23:04.408Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/
+2024-07-30T12:23:05.070Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbsnews.com/news/olympic-medal-count-2024-paris/
+2024-07-30T12:23:05.678Z [INFO] AI Researcher ✅ Added source url to research: https://www.nytimes.com/interactive/2024/07/29/upshot/olympics-medal-table-paris.html
+2024-07-30T12:23:06.347Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.com/sport/olympics/paris-2024/medals
+2024-07-30T12:23:06.921Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:23:08.017Z [INFO] AI Researcher 📚 Getting relevant content based on query: Paris Olympics medal count...
+2024-07-30T12:23:14.780Z [INFO] AI Researcher 🤷 No content found for Paris Olympics medal count...
+2024-07-30T12:23:15.417Z [INFO] AI Researcher 🔍 Running research for: Medal table Paris 2024 Olympics...
+2024-07-30T12:23:17.130Z [INFO] AI Researcher ✅ Added source url to research: https://en.wikipedia.org/wiki/2024_Summer_Olympics_medal_table
+2024-07-30T12:23:17.774Z [INFO] AI Researcher ✅ Added source url to research: https://www.nbcnews.com/sports/olympics/2024-paris-olympics-medal-count-team-usa-rcna164106
+2024-07-30T12:23:18.323Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:23:19.115Z [INFO] AI Researcher 📚 Getting relevant content based on query: Medal table Paris 2024 Olympics...
+2024-07-30T12:23:19.971Z [INFO] AI Researcher 🤷 No content found for Medal table Paris 2024 Olympics...
+2024-07-30T12:23:20.561Z [INFO] AI Researcher 🔍 Running research for: Olympic Games Paris 2024 results by country...
+2024-07-30T12:23:21.999Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.co.uk/sport/olympics/paris-2024/results
+2024-07-30T12:23:22.618Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/schedule?medalEvents=true
+2024-07-30T12:23:23.241Z [INFO] AI Researcher ✅ Added source url to research: https://www.washingtonpost.com/sports/olympics/interactive/2024/paris-olympics-medal-count-tracker/
+2024-07-30T12:23:23.878Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:23:25.453Z [INFO] AI Researcher 📚 Getting relevant content based on query: Olympic Games Paris 2024 results by country...
+2024-07-30T12:23:26.436Z [INFO] AI Researcher 🤷 No content found for Olympic Games Paris 2024 results by country...
+2024-07-30T12:23:27.122Z [INFO] AI Researcher 🔍 Running research for: médailles aux JO paris...
+2024-07-30T12:23:29.067Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/fr/paris-2024/medailles
+2024-07-30T12:23:29.726Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/fr/infos/jo-paris-2024-medailles-france-liste-resultats-podiums
+2024-07-30T12:23:30.361Z [INFO] AI Researcher ✅ Added source url to research: https://www.lemonde.fr/sport/jo-2024/medailles/
+2024-07-30T12:23:31.098Z [INFO] AI Researcher ✅ Added source url to research: https://www.leparisien.fr/jo-paris-2024/jo-de-paris-2024-le-tableau-complet-des-medailles-jour-apres-jour-27-07-2024-OMSV5KWJFNAM7NJL6V5XOHHYSY.php
+2024-07-30T12:23:31.746Z [INFO] AI Researcher ✅ Added source url to research: https://www.eurosport.fr/jeux-olympiques/paris-2024/2024/jo-paris-2024-toutes-les-medailles-de-la-france-au-jour-le-jour-lors-des-jeux-olympiques-en-2024_sto20021717/story.shtml
+2024-07-30T12:23:32.397Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:23:33.189Z [INFO] AI Researcher 📚 Getting relevant content based on query: médailles aux JO paris...
+2024-07-30T12:23:34.073Z [INFO] AI Researcher 🤷 No content found for médailles aux JO paris...
+2024-07-30T12:23:52.930Z [INFO] AI Researcher Starting the research for médailles aux JO paris...
+2024-07-30T12:25:00.941Z [INFO] AI Researcher Agent generated: 🏅 / Sports Historian Agent
+2024-07-30T12:25:19.094Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris Olympics medal count,Medal table Paris 2024 Olympics,Olympic Games Paris 2024 results by country,médailles aux JO paris
+2024-07-30T12:25:19.735Z [INFO] AI Researcher 🔍 Running research for: Paris Olympics medal count...
+2024-07-30T12:25:21.583Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/medals
+2024-07-30T12:25:22.229Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/
+2024-07-30T12:25:22.949Z [INFO] AI Researcher ✅ Added source url to research: https://www.nytimes.com/interactive/2024/07/29/upshot/olympics-medal-table-paris.html
+2024-07-30T12:25:23.607Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbsnews.com/news/olympic-medal-count-2024-paris/
+2024-07-30T12:25:24.228Z [INFO] AI Researcher ✅ Added source url to research: https://www.washingtonpost.com/sports/olympics/interactive/2024/paris-olympics-medal-count-tracker/
+2024-07-30T12:25:24.778Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:25:26.223Z [INFO] AI Researcher 📚 Getting relevant content based on query: Paris Olympics medal count...
+2024-07-30T12:25:32.806Z [INFO] AI Researcher 🤷 No content found for Paris Olympics medal count...
+2024-07-30T12:25:33.480Z [INFO] AI Researcher 🔍 Running research for: Medal table Paris 2024 Olympics...
+2024-07-30T12:25:35.363Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.com/sport/olympics/paris-2024/medals
+2024-07-30T12:25:36.044Z [INFO] AI Researcher ✅ Added source url to research: https://en.wikipedia.org/wiki/2024_Summer_Olympics_medal_table
+2024-07-30T12:25:36.652Z [INFO] AI Researcher ✅ Added source url to research: https://www.nbcnews.com/sports/olympics/2024-paris-olympics-medal-count-team-usa-rcna164106
+2024-07-30T12:25:37.263Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:25:38.042Z [INFO] AI Researcher 📚 Getting relevant content based on query: Medal table Paris 2024 Olympics...
+2024-07-30T12:25:38.909Z [INFO] AI Researcher 🤷 No content found for Medal table Paris 2024 Olympics...
+2024-07-30T12:25:39.532Z [INFO] AI Researcher 🔍 Running research for: Olympic Games Paris 2024 results by country...
+2024-07-30T12:25:41.073Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.co.uk/sport/olympics/paris-2024/results
+2024-07-30T12:25:41.601Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024
+2024-07-30T12:25:42.274Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/schedule?AnonymousID=&displayAsWebView=true
+2024-07-30T12:25:42.852Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:25:45.181Z [INFO] AI Researcher 📚 Getting relevant content based on query: Olympic Games Paris 2024 results by country...
+2024-07-30T12:25:46.151Z [INFO] AI Researcher 🤷 No content found for Olympic Games Paris 2024 results by country...
+2024-07-30T12:25:46.803Z [INFO] AI Researcher 🔍 Running research for: médailles aux JO paris...
+2024-07-30T12:25:48.479Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/fr/paris-2024/medailles
+2024-07-30T12:25:49.166Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/fr/infos/jo-paris-2024-medailles-france-liste-resultats-podiums
+2024-07-30T12:25:49.811Z [INFO] AI Researcher ✅ Added source url to research: https://www.leparisien.fr/jo-paris-2024/jo-de-paris-2024-le-tableau-complet-des-medailles-jour-apres-jour-27-07-2024-OMSV5KWJFNAM7NJL6V5XOHHYSY.php
+2024-07-30T12:25:50.349Z [INFO] AI Researcher ✅ Added source url to research: https://www.eurosport.fr/jeux-olympiques/paris-2024/2024/jo-paris-2024-toutes-les-medailles-de-la-france-au-jour-le-jour-lors-des-jeux-olympiques-en-2024_sto20021717/story.shtml
+2024-07-30T12:25:50.966Z [INFO] AI Researcher ✅ Added source url to research: https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Tous-les-medailles-francais-des-jeux-olympiques-de-paris-2024-en-images/1485976
+2024-07-30T12:25:51.574Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:25:52.658Z [INFO] AI Researcher 📚 Getting relevant content based on query: médailles aux JO paris...
+2024-07-30T12:25:53.590Z [INFO] AI Researcher 🤷 No content found for médailles aux JO paris...
+2024-07-30T12:27:42.637Z [INFO] AI Researcher Starting the research for médailles aux JO paris...
+2024-07-30T12:28:46.867Z [INFO] AI Researcher Agent generated: 🏅 / Sports Historian Agent
+2024-07-30T12:29:04.950Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris Olympics medal count,Medal table Paris 2024 Olympics,Olympic Games Paris 2024 results by country,médailles aux JO paris
+2024-07-30T12:29:05.593Z [INFO] AI Researcher 🔍 Running research for: Paris Olympics medal count...
+2024-07-30T12:29:07.418Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/medals
+2024-07-30T12:29:08.140Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/
+2024-07-30T12:29:08.766Z [INFO] AI Researcher ✅ Added source url to research: https://www.nytimes.com/interactive/2024/07/29/upshot/olympics-medal-table-paris.html
+2024-07-30T12:29:09.372Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbsnews.com/news/olympic-medal-count-2024-paris/
+2024-07-30T12:29:10.020Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.com/sport/olympics/paris-2024/medals
+2024-07-30T12:29:10.643Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:29:12.663Z [INFO] AI Researcher 📚 Getting relevant content based on query: Paris Olympics medal count...
+2024-07-30T12:29:19.254Z [INFO] AI Researcher 🤷 No content found for Paris Olympics medal count...
+2024-07-30T12:29:19.957Z [INFO] AI Researcher 🔍 Running research for: Medal table Paris 2024 Olympics...
+2024-07-30T12:29:21.725Z [INFO] AI Researcher ✅ Added source url to research: https://en.wikipedia.org/wiki/2024_Summer_Olympics_medal_table
+2024-07-30T12:29:22.330Z [INFO] AI Researcher ✅ Added source url to research: https://www.nbcnews.com/sports/olympics/2024-paris-olympics-medal-count-team-usa-rcna164106
+2024-07-30T12:29:22.931Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:29:23.691Z [INFO] AI Researcher 📚 Getting relevant content based on query: Medal table Paris 2024 Olympics...
+2024-07-30T12:29:24.557Z [INFO] AI Researcher 🤷 No content found for Medal table Paris 2024 Olympics...
+2024-07-30T12:29:25.332Z [INFO] AI Researcher 🔍 Running research for: Olympic Games Paris 2024 results by country...
+2024-07-30T12:29:26.984Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.co.uk/sport/olympics/paris-2024/results
+2024-07-30T12:29:27.650Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/schedule
+2024-07-30T12:29:28.253Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024
+2024-07-30T12:29:28.859Z [INFO] AI Researcher ✅ Added source url to research: https://www.washingtonpost.com/sports/olympics/interactive/2024/paris-olympics-medal-count-tracker/
+2024-07-30T12:29:29.387Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:29:31.062Z [INFO] AI Researcher 📚 Getting relevant content based on query: Olympic Games Paris 2024 results by country...
+2024-07-30T12:29:31.927Z [INFO] AI Researcher 🤷 No content found for Olympic Games Paris 2024 results by country...
+2024-07-30T12:29:32.468Z [INFO] AI Researcher 🔍 Running research for: médailles aux JO paris...
+2024-07-30T12:29:34.143Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/fr/paris-2024/medailles
+2024-07-30T12:29:34.811Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/fr/infos/jo-paris-2024-medailles-france-liste-resultats-podiums
+2024-07-30T12:29:35.491Z [INFO] AI Researcher ✅ Added source url to research: https://www.leparisien.fr/jo-paris-2024/jo-de-paris-2024-le-tableau-complet-des-medailles-jour-apres-jour-27-07-2024-OMSV5KWJFNAM7NJL6V5XOHHYSY.php
+2024-07-30T12:29:36.192Z [INFO] AI Researcher ✅ Added source url to research: https://www.lemonde.fr/sport/jo-2024/medailles/
+2024-07-30T12:29:36.915Z [INFO] AI Researcher ✅ Added source url to research: https://www.eurosport.fr/jeux-olympiques/paris-2024/2024/jo-paris-2024-toutes-les-medailles-de-la-france-au-jour-le-jour-lors-des-jeux-olympiques-en-2024_sto20021717/story.shtml
+2024-07-30T12:29:37.439Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T12:29:38.911Z [INFO] AI Researcher 📚 Getting relevant content based on query: médailles aux JO paris...
+2024-07-30T12:29:39.700Z [INFO] AI Researcher 🤷 No content found for médailles aux JO paris...
+2024-07-30T14:55:52.631Z [INFO] AI Researcher Starting the research for médailles aux JO paris...
+2024-07-30T14:56:53.976Z [INFO] AI Researcher Agent generated: 🏅 / Sports Historian Agent
+2024-07-30T14:57:16.791Z [INFO] AI Researcher I will conduct my research based on the following queries: Paris Olympics medal count,Medal table Paris 2024 Olympics,Olympic Games Paris 2024 results by country,médailles aux JO paris
+2024-07-30T14:57:17.458Z [INFO] AI Researcher 🔍 Running research for: Paris Olympics medal count...
+2024-07-30T14:57:19.197Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/medals
+2024-07-30T14:57:19.896Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/
+2024-07-30T14:57:20.480Z [INFO] AI Researcher ✅ Added source url to research: https://www.nytimes.com/interactive/2024/07/29/upshot/olympics-medal-table-paris.html
+2024-07-30T14:57:21.093Z [INFO] AI Researcher ✅ Added source url to research: https://www.cbsnews.com/news/olympic-medal-count-2024-paris/
+2024-07-30T14:57:21.764Z [INFO] AI Researcher ✅ Added source url to research: https://www.nbcnews.com/sports/olympics/2024-paris-olympics-medal-count-team-usa-rcna164106
+2024-07-30T14:57:22.350Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T14:57:23.797Z [INFO] AI Researcher 📚 Getting relevant content based on query: Paris Olympics medal count...
+2024-07-30T14:58:28.676Z [INFO] AI Researcher 📃 Source: https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/
+Title: 
+Content: The United States entered these games with the most Olympic medals ever won in the Summer Games. The U.S. also holds the record for most gold medals won in a single games with 83 captured in 1984, one of the country's host years which took place as the Soviet Union led a 12-nation boycott of the Los Angeles Games. Such lofty totals will likely not happen in 2024. In Paris, America is simply looking to build upon the success that it had three years ago at the Tokyo Games where the U.S. brought home 39 gold medals, 41 silvers and 33 bronze.
+Check out the 2024 Paris Olympics medal count below. It will be updated regularly as events conclude through the conclusion of the Summer Olympics on Aug. 11.
+2024 Paris Olympics medal count
+Our Latest Olympics Stories
+Dawn Staley speaks on Caitlin Clark missing Olympics
+Isabel Gonzalez
+                                                                • 1 min read
+2024 Paris Olympics women's gymnastics team final picks
+CBS Sports Staff
+
+Source: https://www.cbsnews.com/news/olympic-medal-count-2024-paris/
+Title: 
+Content: Watch CBS News
+See the current Olympic medal count for the 2024 Paris Games
+By
+                        
+                      Allison Elyse Gualtieri
+Updated on:  July 30, 2024 / 8:19 AM EDT
+          / CBS News
+As Team USA goes for gold, the medal count for the Paris Olympic Games is on the rise. While you're catching up on all the 2024 gold-medal glory and silver- and bronze-medal standings, see which countries top the podium with the CBS News medal count tracker below, which is updated hourly.
+In addition to the medals, which are unique to each Olympic Games, some winners will get additional awards from their home nations. Cash prizes, cows or even apartments are some of the rewards medal winners in some sports or from certain countries will enjoy.
+Which country had the most medals in the 2020 Olympics?
+
+Source: https://www.cbsnews.com/news/olympic-medal-count-2024-paris/
+Title: 
+Content: Which country has the most gold medals overall?
+The U.S. will also hope to keep its ranking as the nation with the most gold medals: a total of 1,179 ahead of the Paris Games, according to the Olympic Foundation. Following is the Soviet Union, with 473 gold medals. Germany takes third, with 342 gold medals.
+The U.S. notched its first gold medal of the Games with a gold in the men's 4x100 freestyle relay.
+2024 Summer Olympics in Paris
+Allison Elyse Gualtieri is a Senior News Editor for CBSNews.com, working on a wide variety of subjects including crime, longer-form features and feel-good news. She previously worked for the Washington Examiner and U.S. News and World Report, among other outlets.
+© 2024 CBS Interactive Inc. All Rights Reserved.
+More from CBS News
+The full list of Summer Olympic sports for the 2024 Paris Games
+U.S. men win their first Olympic gymnastics team medal in 16 years
+Team USA's first medal at the Paris Olympics came in synchronized diving
+
+Source: https://www.nytimes.com/interactive/2024/07/29/upshot/olympics-medal-table-paris.html
+Title: 
+Content: Advertisement
+Comments
+U.S.
+France
+China
+Japan
+Britain
+S. Korea
+Australia
+Italy
+Canada
+HongKong
+Kazakhstan
+S. Africa
+Brazil
+Sweden
+Germany
+Belgium
+Turkey
+India
+Moldova
+Azerbaijan
+Romania
+Serbia
+Uzbekistan
+Fiji
+Kosovo
+Mongolia
+Poland
+N. Korea
+Tunisia
+Croatia
+Egypt
+Spain
+Guatemala
+Hungary
+Ireland
+Mexico
+Switzerland
+Slovakia
+Ukraine
+Paris Olympics: Who Leads the Medal Count?
+By Josh Katz
+Which country is doing best at the Paris Olympics? It depends on who’s counting medals — and how.
+As of Tuesday at 10:35 a.m. Eastern time, China stood atop the official Olympic medal table, which sorts nations based on their number of gold medals. That approach is common in much of the world, with silver and bronze used only to break ties.
+By another measure, the United States leads because it has the most medals overall (20, at last count). Publications in the U.S., including The New York Times, often take this approach.
+Leaders by total medals
+Leaders by gold medals
+
+Source: https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/
+Title: 
+Content: Olympic medal count for the 2024 Summer Games with updates
+The 2024 Paris Olympics continued Monday with a busy schedule including finals in 11 different sports. That included the team final in Men's Gymnastics, where the United States won bronze, its first medal since the 2008 Beijing Games. In the pool, U.S. Swimming followed up a strong Sunday with another solid showing, racking up four medals across five events and led by Katie Grimes and Emma Weyant going silver-bronze in the 400-meter individual medley.
+
+Source: https://www.nbcnews.com/sports/olympics/2024-paris-olympics-medal-count-team-usa-rcna164106
+Title: 
+Content: Profile
+Sections
+tv
+Featured
+More From NBC
+Follow NBC News
+news Alerts
+There are no new alerts at this time
+Here are the latest medal results from the 2024 Paris Olympics
+As the world's greatest athletes compete for both individual glory and national pride at the 2024 Paris Olympic Games, spectators at home will also wonder which country will have the honor of raking in the most medals.
+The U.S., Japan and China and the host country, France, were leading the medal count by Tuesday as the Paris Games were only just beginning.
+Team France and Team USA started this year's competition in a neck-and-neck battle for most medals overall, the country putting on the Games vs. the 2028 host. The U.S. edged ahead to lead the pack Monday after a strong showing in skateboarding, swimming and men’s gymnastics.
+Follow along for live coverage here
+Both countries also have slight advantages by just the sheer volume of athletes who are representing them.
+
+Source: https://www.cbsnews.com/news/olympic-medal-count-2024-paris/
+Title: 
+Content: Which country has the most medals overall?
+According to the Olympic Foundation for Culture and Heritage, the U.S. leads the all-time medal count with a total of 2,975 Olympic medals, followed by the now-defunct Soviet Union, with 1,204 medals, and Germany, with 1,058 medals.
+While the U.S. hopes to add to its medal haul in 2024, it's helped by the sheer number of competitors representing Team USA at the Paris Games: 594 athletes, of the about 10,500 athletes competing. Four countries in this year's games have only one athlete taking a shot at medal glory: Belize, Liechtenstein, Nauru and Somalia.
+And since Russia was banned for this year's games, any medals garnered by its few athletes competing as individual neutral athletes won't be tallied as part of the country's overall haul.
+Which country has the most gold medals overall?
+
+Source: https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/
+Title: 
+Content: That gives the United States a Paris Games-best 20 total medals, four ahead of host nation France. The Americans' three golds, however, rank just sixth so far. However, Team USA's men's and women's basketball are off to strong starts as Olympic gold favorites, and the women's soccer team -- also a strong contender for gold -- has also impressed. And USA Track & Field performers are accustomed to produced results that often lead to multiple renditions of the "The Star-Spangled Banner."
+
+2024-07-30T14:58:29.277Z [INFO] AI Researcher 🔍 Running research for: Medal table Paris 2024 Olympics...
+2024-07-30T14:58:30.941Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.com/sport/olympics/paris-2024/medals
+2024-07-30T14:58:31.608Z [INFO] AI Researcher ✅ Added source url to research: https://en.wikipedia.org/wiki/2024_Summer_Olympics_medal_table
+2024-07-30T14:58:32.273Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T14:58:33.088Z [INFO] AI Researcher 📚 Getting relevant content based on query: Medal table Paris 2024 Olympics...
+2024-07-30T14:58:42.855Z [INFO] AI Researcher 📃 Source: https://en.wikipedia.org/wiki/2024_Summer_Olympics_medal_table
+Title: 
+Content: Contents
+2024 Summer Olympics medal table
+
+Source: https://en.wikipedia.org/wiki/2024_Summer_Olympics_medal_table
+Title: 
+Content: The 2024 Summer Olympics, officially known as the Games of the XXXIII Olympiad, is an international multi-sport event held in Paris, France from 26 July to 11 August 2024.
+Medals
+Paris 2024 president Tony Estanguet unveiled the Olympic and Paralympic medals for the Games in February 2024, which on the obverse featured embedded hexagon-shaped tokens of scrap iron that had been taken from the original construction of the Eiffel Tower, with the Games logo engraved into it.[1] Approximately 5,084 medals would be produced by the French mint Monnaie de Paris, and were designed by Chaumet, a luxury jewellery firm based in Paris.[2]
+
+Source: https://en.wikipedia.org/wiki/2024_Summer_Olympics_medal_table
+Title: 
+Content: The reverse of the medals features Nike, the Greek goddess of victory, inside the Panathenaic Stadium which hosted the first modern Olympics in 1896. The Parthenon and the Eiffel Tower can also be seen in the background on both sides of the medal.[3] Each medal weighs 455–529 g (16–19 oz), has a diameter of 85 mm (3.3 in) and is 9.2 mm (0.36 in) thick.[4] The gold medals are made with 98.8 percent silver and 1.13 percent gold, while the bronze medals are made up with copper, zinc, and tin.[5]
+Medal table
+The medal table is based on information provided by the International Olympic Committee (IOC) and is consistent with IOC convention in its published medal tables. By default, the table is ordered by the number of gold medals the athletes from a nation have won, where nation is an entity represented by a National Olympic Committee (NOC). The number of silver medals is taken into consideration next and then the number of bronze medals.
+*   Host nation (France)
+See also
+References
+
+Source: https://en.wikipedia.org/wiki/2024_Summer_Olympics_medal_table
+Title: 
+Content: *   Host nation (France)
+See also
+References
+External links
+
+2024-07-30T14:58:43.434Z [INFO] AI Researcher 🔍 Running research for: Olympic Games Paris 2024 results by country...
+2024-07-30T14:58:45.302Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.co.uk/sport/olympics/paris-2024/results
+2024-07-30T14:58:45.999Z [INFO] AI Researcher ✅ Added source url to research: https://www.bbc.co.uk/sport/olympics/paris-2024/medals
+2024-07-30T14:58:46.605Z [INFO] AI Researcher ✅ Added source url to research: https://www.washingtonpost.com/sports/olympics/interactive/2024/paris-olympics-medal-count-tracker/
+2024-07-30T14:58:47.333Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/en/paris-2024/schedule?AnonymousID=&displayAsWebView=true
+2024-07-30T14:58:47.934Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T14:58:48.995Z [INFO] AI Researcher 📚 Getting relevant content based on query: Olympic Games Paris 2024 results by country...
+2024-07-30T14:58:57.088Z [INFO] AI Researcher 📃 Source: https://www.washingtonpost.com/sports/olympics/interactive/2024/paris-olympics-medal-count-tracker/
+Title: 
+Content: Paris Olympics medal count: Tracking medals by country in 2024
+The first medals of the 2024 Summer Olympics in Paris were awarded today, the day after the Opening Ceremonies. The coming days will include competitions in 329 events across 32 sports, with the Olympics ending on Aug. 11. See the schedule of events here.
+Jump to ...
+How are countries performing in golds compared to the 2021 Tokyo Olympics?
+Search all 2024 medal winners by event or country
+First-ever medals and golds
+Going into the 2024 Games, there were 69 countries that had never won a Summer Olympics medal, and another 37 that had never won a gold.
+Each Olympics, this list gets shorter. In Tokyo, three countries — Burkina Faso, San Marino and Turkmenistan — won their first-ever medal. Three more — Bermuda, the Philippines and Qatar — won their first gold.
+Countries that have never won a Summer Olympics medal
+No medals
+No golds
+Countries that have never won a Summer Olympics medal
+No medals
+No golds
+EUROPE
+NORTH
+AMERICA
+
+Source: https://www.washingtonpost.com/sports/olympics/interactive/2024/paris-olympics-medal-count-tracker/
+Title: 
+Content: Countries that have never won a Summer Olympics medal
+No medals
+No golds
+EUROPE
+NORTH
+AMERICA
+ASIA
+AFRICA
+SOUTH
+AMERICA
+AUSTRALIA
+AND OCEANIA
+Countries that have never won a Summer Olympics medal
+No medals
+No golds
+EUROPE
+NORTH
+AMERICA
+ASIA
+AFRICA
+SOUTH
+AMERICA
+AUSTRALIA
+AND OCEANIA
+Countries that have never won a Summer Olympics medal
+No medals
+No golds
+About this story
+By Chris Alcantara and Janice Kai Chen.
+Olympics medal information from STAT. Editing by Reuben Fischer-Baum. Additional design and development by Alexis Barnes and Shelly Tan.
+
+Source: https://olympics.com/en/paris-2024/schedule?AnonymousID=&displayAsWebView=true
+Title: 
+Content: Site Language
+Log in or Sign up
+Olympic - Schedule
+POWERED BY
+Timing and scoring provided by OMEGA. Results powered by Atos.
+
+2024-07-30T14:58:57.775Z [INFO] AI Researcher 🔍 Running research for: médailles aux JO paris...
+2024-07-30T14:58:59.469Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/fr/paris-2024/medailles
+2024-07-30T14:59:00.156Z [INFO] AI Researcher ✅ Added source url to research: https://olympics.com/fr/infos/jo-paris-2024-medailles-france-liste-resultats-podiums
+2024-07-30T14:59:00.793Z [INFO] AI Researcher ✅ Added source url to research: https://www.lemonde.fr/sport/jo-2024/medailles/
+2024-07-30T14:59:01.295Z [INFO] AI Researcher ✅ Added source url to research: https://www.leparisien.fr/jo-paris-2024/jo-de-paris-2024-le-tableau-complet-des-medailles-jour-apres-jour-27-07-2024-OMSV5KWJFNAM7NJL6V5XOHHYSY.php
+2024-07-30T14:59:01.905Z [INFO] AI Researcher ✅ Added source url to research: https://www.eurosport.fr/jeux-olympiques/paris-2024/2024/jo-paris-2024-toutes-les-medailles-de-la-france-au-jour-le-jour-lors-des-jeux-olympiques-en-2024_sto20021717/story.shtml
+2024-07-30T14:59:02.473Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T14:59:03.427Z [INFO] AI Researcher 📚 Getting relevant content based on query: médailles aux JO paris...
+2024-07-30T15:00:50.299Z [INFO] AI Researcher 📃 Source: https://www.leparisien.fr/jo-paris-2024/jo-de-paris-2024-le-tableau-complet-des-medailles-jour-apres-jour-27-07-2024-OMSV5KWJFNAM7NJL6V5XOHHYSY.php
+Title: 
+Content: Et quelle place pour la France, qui s’était hissée à la huitième position à Tokyo ? Quelques jours avant le lancement des Jeux de Paris, les pronostics donnaient les Bleus au troisième rang. Une place qui ne leur est pas revenue depuis 1948. Il faut remonter encore plus loin, en 1924, pour la deuxième place, et jusqu’en 1900 pour la tête du classement. La France avait alors remporté 102 médailles dont 27 en or. Au-delà de cette édition « hors normes », la France a signé sa plus belle performance olympique estivale aux JO de Pékin en 2008. Lors de cette compétition, les athlètes tricolores avaient remporté 43 médailles (7 en or, 16 en argent et 20 en bronze).
+MédaillesJO Paris 2024
+Au total, 1 041 médailles seront décernées lors des JO de Paris 2024, voire davantage en cas d’égalité à la troisième place.
+Guide Shopping Le Parisien
+Annonces immobilières
+Codes promo
+Services
+Profitez des avantages de l’offre numérique
+JO 2024
+Programme des épreuves
+Calendrier
+Toute l'actu des Jeux
+
+Source: https://www.leparisien.fr/jo-paris-2024/jo-de-paris-2024-le-tableau-complet-des-medailles-jour-apres-jour-27-07-2024-OMSV5KWJFNAM7NJL6V5XOHHYSY.php
+Title: 
+Content: JO de Paris 2024 : le tableau complet des médailles, jour après jour
+Quel pays sera en tête du classement des médailles olympiques ? 329 épreuves sont au programme des Jeux olympiques de Paris, soit autant de podiums et encore plus de médailles en or, argent ou bronze. Retrouvez, en temps réel, le palmarès complet des nations.
+Quelle nation succédera aux États-Unis, qui ont terminé en tête du tableau des médailles aux derniers JO de Tokyo en 2021, avec quelque 113 récompenses dont 39 en or ? Seront-ils doublés par la Chine, qui était deuxième il y a trois ans avec 89 médailles ? Le Japon, pays hôte, avait lui fini troisième.
+
+Source: https://www.lemonde.fr/sport/jo-2024/medailles/
+Title: 
+Content: Où se passent les JO ?
+"Comme leur nom l’indique, les Jeux olympiques de Paris 2024 se déroulent dans la capitale française, Paris, et en Ile-de-France. Mais également à Lille (basket et handball), Châteauroux (tir), Lyon, Nantes, Bordeaux, Saint-Etienne, Nice (football), Marseille (football et voile) et Teahupoo à Tahiti (surf).
+
+Source: https://olympics.com/fr/infos/jo-paris-2024-medailles-france-liste-resultats-podiums
+Title: 
+Content: JO de Paris 2024 : Liste complète de tous les Français médaillés avec résultats et podiums
+Photo de 2024 Getty Images
+Les Jeux Olympiques de Paris 2024 ont officiellement été lancés ce vendredi 26 juillet avec la cérémonie d'ouverture.
+Jusqu'au 11 août, 622 athlètes français, dont 51 athlètes remplaçants, vont tenter de monter sur les podiums des JO dans 32 sports et 45 disciplines.
+Qui sont les athlètes français médaillés aux Jeux Olympiques de Paris 2024 ? Découvrez-le avec notre liste complète de tous les athlètes français, leurs podiums et leurs résultats. Vous pouvez aussi trouver où est la France dans le tableau des médailles des JO de Paris 2024 ici.
+LIRE AUSSI - Tous les sélectionnés français aux Jeux Olympiques de Paris 2024
+Médaillés français aux JO de Paris 2024 : Liste complète
+🥇 Médaille d'or : 5
+🥈 Médaille d'argent : 8
+🥉 Médaille de bronze : 3
+Total : 16 médailles
+LIRE AUSSI - Le tableau des médailles des JO de Paris 2024
+Related content
+
+Source: https://www.lemonde.fr/sport/jo-2024/medailles/
+Title: 
+Content: Le Victoria Hotel, un havre sans paix
+Siesta, souvenir de camping
+« Une œuvre en héritage » : le décorateur Jean Royère, son compagnon et le petit-neveu
+L’enfer du tracancier, c’est les autres (vacanciers)
+Services Le Monde
+Services partenaires
+Service Codes Promo
+Suppléments partenaires
+Tableau complet des médailles des Jeux olympiques de Paris 2024
+Suivez l'évolution du classement des médailles aux JO 2024 à Paris grâce à notre page consacrée au tableau des médailles. Découvrez en temps réel les résultats des athlètes de chaque pays, les médailles d'or, d'argent et de bronze remportées dans chaque discipline.
+Données récoltées par :
+Tout savoir sur les Jeux olympiques 2024
+Combien de sports retrouve-t-on aux Jeux olympiques ?
+
+Source: https://www.eurosport.fr/jeux-olympiques/paris-2024/2024/jo-paris-2024-toutes-les-medailles-de-la-france-au-jour-le-jour-lors-des-jeux-olympiques-en-2024_sto20021717/story.shtml
+Title: 
+Content: VIVEZ PLUS DE SPORT EN DIRECT SUR EUROSPORT
+JO Paris 2024 | Toutes les médailles de la France au jour le jour lors des Jeux Olympiques en 2024
+Mis à jour 29/07/2024 à 23:40 GMT+2
+Moisson de podiums pour les Bleus ? Retrouvez en un clin d’œil toutes les médailles remportées par l'équipe de France olympique lors des JO de Paris 2024. Les Bleus ont déjà ouvert leur compteur dès le premier jour de compétition officielle et ils ont même décroché leur première médaille d'or grâce à l'équipe de France de rugby à 7 d'Antoine Dupont !
+Une course de 80m avant un service pour le 2e essai : le génial Dupont en action
+Médailles d'or : 5
+Tableau des médailles : Un carton historique et la France grimpe à la 2e place
+il y a 18 heures
+Le panache et le succès pour les Bleus : le résumé du sacre historique face aux ogres fidjiens
+La masterclass ! L'or pour Ferrand-Prévot au bout d'une course de rêve
+Porté par la foule, Marchand a conquis l'Olympe et tutoyé le record du monde
+
+Source: https://www.eurosport.fr/jeux-olympiques/paris-2024/2024/jo-paris-2024-toutes-les-medailles-de-la-france-au-jour-le-jour-lors-des-jeux-olympiques-en-2024_sto20021717/story.shtml
+Title: 
+Content: Médailles de bronze : 3
+La première médaille pour la France signée Boukli, en bronze !
+Bronze, larmes et ovation : Buchard chavire avec l'Arena
+Elle est maudite ! 3 ans après Tokyo, Cysique à nouveau disqualifiée, en demie
+Le programme du jour : Le jour d'Agbégnénou, le retour de Marchand
+il y a 9 heures
+Doublé historique au sabre, Gestin en or : Le résumé des 8 médailles tricolores au 3e jour des JO
+De l'insolite et des stars en pagaille : les images immanquables de la 2e journée
+Comment s'est déroulée votre expérience aujourd'hui ?
+Changer de langue :
+
+Source: https://www.lemonde.fr/sport/jo-2024/medailles/
+Title: 
+Content: Paris 2024 : Laëtitia Guapo, la dynamiteuse du basket 3 × 3 français, « à chaque fois, je surpasse mes limites »
+La capitaine des Bleues incarne une discipline encore méconnue qui fera sa deuxième apparition, à partir du 30 juillet sur la place de la Concorde, au programme olympique.
+Publié aujourd’hui à 14h00        Eric Collier
+Le BMX, de « E.T., l’extra-terrestre » aux Jeux olympiques
+Introduit dans la culture populaire par le film de Steven Spielberg, le sport extrême, dont les épreuves de freestyle se déroulent mardi 30 et mercredi 31 juillet, pourrait voir le Français Anthony Jeanjean empocher une médaille.
+Publié aujourd’hui à 13h09, modifié à 14h17        Luc Bronner
+JO de Paris 2024 : lors de la cérémonie d’ouverture, des instruments à cordes sous la pluie et sous escorte policière
+L’Orchestre de Paris a prêté en urgence à l’Orchestre national de France des instruments bas de gamme, qui ont traversé Paris pour être utilisés pendant les intempéries.
+
+2024-07-30T15:23:04.420Z [INFO] AI Researcher Starting the research for Je voudrais planifier un voyage en Grèce en septembre 2024...
+2024-07-30T15:24:07.124Z [INFO] AI Researcher Agent generated: 🗺️ / Travel Agent
+2024-07-30T15:24:27.247Z [INFO] AI Researcher I will conduct my research based on the following queries: best time to visit Greece September weather,Greece tourist season September 2024,September events and festivals in Greece,Je voudrais planifier un voyage en Grèce en septembre 2024
+2024-07-30T15:24:27.901Z [INFO] AI Researcher 🔍 Running research for: best time to visit Greece September weather...
+2024-07-30T15:24:29.697Z [INFO] AI Researcher ✅ Added source url to research: https://www.adventureinyou.com/greece/best-time-to-visit-greece/
+2024-07-30T15:24:30.341Z [INFO] AI Researcher ✅ Added source url to research: https://www.wanderluststorytellers.com/greece-in-september/
+2024-07-30T15:24:30.982Z [INFO] AI Researcher ✅ Added source url to research: https://www.globalhighlights.com/greece/weather-in-september
+2024-07-30T15:24:31.668Z [INFO] AI Researcher ✅ Added source url to research: https://www.tripsavvy.com/greece-in-september-1525905
+2024-07-30T15:24:32.270Z [INFO] AI Researcher ✅ Added source url to research: https://greeceinsiders.travel/weather-in-greece-in-september/
+2024-07-30T15:24:32.854Z [INFO] AI Researcher 🤔 Researching for relevant information...
+2024-07-30T15:24:35.067Z [INFO] AI Researcher 📚 Getting relevant content based on query: best time to visit Greece September weather...
